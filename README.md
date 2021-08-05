@@ -20,6 +20,8 @@ This is a commom expense list react-app that you can use to maintain your expens
 
 # Getting Started
 Just download this files and Run command
-npm install
-cd my-app
-npm start
+> npm install
+
+> cd my-app
+
+> npm start
